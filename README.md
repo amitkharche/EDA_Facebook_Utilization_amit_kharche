@@ -85,8 +85,8 @@ This project dives into a user-level dataset from Facebook to uncover how **age*
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/amitkharche/exploratory_data_analysis_projects_amit_kharche.git
-cd exploratory_data_analysis_projects_amit_kharche/EDA_Facebook_Utilization_amit_kharche
+git clone https://github.com/amitkharche/EDA_Facebook_Utilization_amit_kharche.git
+cd EDA_Facebook_Utilization_amit_kharche
 ````
 
 2. **(Optional) Create and activate a virtual environment:**
