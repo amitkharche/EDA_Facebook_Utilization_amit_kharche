@@ -135,7 +135,7 @@ This project is provided for **educational and analytical purposes only**. Use o
 ## ✨ Connect with Me
 
 * [LinkedIn](https://www.linkedin.com/in/amit-kharche)
-* [Medium](https://medium.com/@amitkharche14)
+* [Medium](https://medium.com/@amitkharche)
 * [GitHub](https://github.com/amitkharche)
 
 > If this project helped you learn or build something cool, consider ⭐ starring the repository and sharing your feedback!
